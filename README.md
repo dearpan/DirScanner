@@ -16,3 +16,5 @@ optional arguments:
   -u URL, --url URL     Site target scan Uel.
   -t THREAD, --thread THREAD	Site scan thread number.
 ```
+
+刚开始写Python不久，会慢慢改进该脚本。有什么不好的地方高手可以指点一下。
